@@ -115,7 +115,7 @@ Dockerized Streamlit & API ready for cloud deployment: AWS, GCP, Render, or Hero
 
 📖 Future Improvements
 
-- Add real-world CX datasets when available
+- Add real-world CX datasets
 - Enhance LLM insights with RAG (retrieval-augmented generation) from historical dashboards
 - Implement alerting system for at-risk customers
 - Deploy multi-phase monitoring & logging
@@ -125,4 +125,4 @@ Dockerized Streamlit & API ready for cloud deployment: AWS, GCP, Render, or Hero
 - Demonstrates end-to-end ML system thinking, not just isolated models
 - Integrates explainability + LLM insights for business impact
 - Fully public-ready and deployable, even with synthetic data
-- Highlights strategic problem-solving + technical excellence — exactly what hiring managers look for
+- Highlights strategic problem-solving + technical excellence
